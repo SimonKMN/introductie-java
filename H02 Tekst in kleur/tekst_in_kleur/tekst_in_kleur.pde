@@ -1,0 +1,12 @@
+size(800,400);
+background(255,255,25);
+fill(0,0,0);
+textAlign(CENTER);
+fill(255,0,0);
+text("Dit is een test bericht",400,20);
+textAlign(LEFT);
+fill(0,255,0);
+text("Dit is een test bericht",10,380);
+textAlign(RIGHT);
+fill(0,0,255);
+text("Dit is een test bericht",790,200);
